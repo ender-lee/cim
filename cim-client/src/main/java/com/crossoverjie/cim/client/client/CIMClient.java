@@ -45,6 +45,7 @@ public class CIMClient {
     @Value("${cim.user.id}")
     private long userId;
 
+
     @Value("${cim.user.userName}")
     private String userName;
 
